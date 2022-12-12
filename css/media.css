@@ -1,0 +1,41 @@
+@media only screen and (max-width: 1920px){
+        .miss_back_text{ margin-left: 0; }
+        .mission_content{ margin-left: -22%; margin-top: 23%; }    
+        .tom_full{width: 65%;}
+}
+
+@media only screen and (max-width:1500px) {
+        .tom_full{width: 75%;}
+}
+
+@media only screen and (max-width: 1350px) {
+        .tom_full{width: 85%;}
+  
+}
+
+@media only screen and (max-width: 1203px) {
+        .tom_full{width: 99%;}
+        .mission_content { margin-left: -8%;  margin-top: 2%;}
+        
+}
+
+@media only screen and (max-width: 991px) {
+
+}
+    
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 640px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+
+}
